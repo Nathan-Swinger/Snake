@@ -1,4 +1,4 @@
-# The game of snake built in python
+The game of snake built in python
 
 What I learned:
 - How to work with pygame library
